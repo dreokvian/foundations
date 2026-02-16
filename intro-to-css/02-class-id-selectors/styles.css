@@ -1,0 +1,18 @@
+.number {
+    background-color: lightpink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.adjust-size {
+    font-size: 24px;
+}
+
+#big {
+    color: blue;
+    font-size: 36px;
+}
+
+#medium {
+    background-color: lightgreen;
+    font-weight: bold;
+}

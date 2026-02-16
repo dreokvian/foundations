@@ -1,0 +1,16 @@
+/* grouping selectors */
+
+.black-bt,
+.yellow-bt {
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.black-bt {
+    color: white;
+    background-color: black;
+}
+
+.yellow-bt {
+    background-color: yellow;
+}
